@@ -1,3 +1,10 @@
+<?php
+/**Proyecto creado por: Juliá David Molina Jaramillo
+ * Desarrollador de Software
+ * 01/10/2023
+ */
+?>
+
 <?php 
 //Incluimos la cabecera con la funcion include
 include("cabecera.php"); ?>
